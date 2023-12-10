@@ -3,6 +3,6 @@
 
  <div align="center">
 
- [<img src="imagens/projeto-site">](https://luizacn.github.io/projeto-site/)
+ [<img src="imagens/projeto-site.png">](https://luizacn.github.io/projeto-site/)
 
  </div>
